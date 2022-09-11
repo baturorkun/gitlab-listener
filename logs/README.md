@@ -1,0 +1,1 @@
+You can view logs in that directory

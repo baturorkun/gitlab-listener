@@ -1,0 +1,9 @@
+PYTHONUNBUFFERED: 1
+ROCKETCHAT_TOKEN: "XXXXXXXXXXXXXXXXXXXX"
+ROCKETCHAT_USERID: "9Amc1qnrZW8C4Zhop"
+ROCKETCHAT_URL: "https://rocketchat.mydomain.com"
+GITLAB_URL: "https://gitlab.mydomain.com"
+GITLAB_PROJECT_ID: 2
+GITLAB_TOKEN: "XXXXXXXXXXXXXXXX"
+K8S_URL: "kubernetes.mydomain.com"
+KUBECONFIG=/root/gitlab-listener/kubeconfig
